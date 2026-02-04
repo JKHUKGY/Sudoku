@@ -5,3 +5,5 @@ public static void mystery3(int[] nums) {
       }
    }
 }
+
+// some changes
